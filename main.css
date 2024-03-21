@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1439px;
+    height: 2554px;
+    top: -897px;
+    left: -1081px;
+
+}
+
+.cont {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color: white;
+    font: 900 4.375rem/4.375rem 'Big Shoulders Display', sans-serif;
+    text-transform: uppercase;
+    color: var(--black);
+    color: white;
+    padding-top: 250px;
+    margin-left: 200px;
+    mix-blend-mode: difference;
+}
+
+.childCont {
+    width: 450px;
+    height: 799px;
+    background: #151515;
+
+
+
+}
+
+.picture {
+    width: 540px;
+    height: 800px;
+    left: 450px;
+
+}
+
+.text {
+    width: 370px;
+    height: 160px;
+    top: 190px;
+    left: 925px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #444444;
+    padding-top: 180px; 
+    position: absolute;
+    right: -20px;
+    top: 10px;
+    margin: 10px;
+}
+
+.ourLocation {
+    width: 260px;
+    height: 72px;
+    top: 414px;
+    left: 925px;
+    margin-top: 400px;
+    position: absolute;
+    right: -20px;
+    top: 10px;
+}
+
+.mainBox {
+    width: 1110px;
+    height: 1150px;
+    top: 980px;
+    left: 165px;
+    background-color: #fffdfd;
+    margin-left: 300px;
+    margin-top: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    
+}
+
+.content {
+    width: 350px;
+    height: 280px;
+    top: 1040px;
+    left: 165px;
+    padding-top: 70px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+h2 {
+    width: 350px;
+    height: 120px;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #151515;
+
+}
+
+p {
+    width: 350px;
+    height: 128px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    background: #ffffff;
+    padding-top: 90px;
+
+}
+
+.pic {
+    width: 635px;
+    height: 400px;
+    top: 980px;
+    left: 640px;
+    margin-left: 125px;
+    margin-bottom: 100px;
+}
+
+.secondBox {
+    display: flex;
+    flex-direction: row;
+}
+
+.secondPic {
+    width: 550px;
+    height: 650px;
+    margin-top: 220px;
+}
+
+.thirdPic {
+    width: 445px;
+    height: 313px;
+    top: 1410px;
+    left: 830px;
+    margin-top: 220px;
+    margin-right: -100px;
+    position: absolute;
+    left: 965px;
+    top: 1250px;
+    
+}
+
+.childBox {
+    width: 445px;
+    height: 330px;
+    top: 1753px;
+    left: 830px;
+    background: #151515;
+    margin-top: 540px;
+    margin-left: 115px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.childSecondBox {
+    width: 350px;
+    height: 248px;
+    top: 1818px;
+    left: 878px;
+    
+
+}
+
+.h3 {
+    width: 350px;
+    height: 120px;
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: 880;
+    line-height: 50px;
+    text-align: left;
+
+}
+
+.childspan {
+    width: 350px;
+    height: 96px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.lastCont {
+    width: 1690px;
+    height: 200px;
+    top: 2310px;
+    gap: 0px;
+    opacity: 0px;
+    background: #151515;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.lastChild {
+    width: 1310px;
+    height: 84px;
+    top: 2390px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #151515;
+}
+
+.MODERN {
+    width: 180px;
+    height: 65px;
+    color: #FFFFFF;
+}
+
+.thirdText {
+    width: 430px;
+    height: 84px;
+    color: #FFFFFF;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin-left: 500px;
+    margin-top: -80px;
+}
+
+.thirdtextDiv {
+    width: 730px;
+    height: 84px;
+    top: 2390px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.picturre {
+    margin-top: -80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+   
+
+}
+
+.lastPic {
+    width: 100px;
+    height: 20px;
+}
+
